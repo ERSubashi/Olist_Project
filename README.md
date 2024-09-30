@@ -1,3 +1,4 @@
 # Olist_Project
 This project involves building an ETL (Extract, Transform, Load) pipeline to transfer data from CSV files into a SQL Server database. The goal is to create a small Data Warehouse (Data Mart) according to a specific data model that supports analytical reporting on sales, customer, product, and order details for Olist, the largest department store in Brazilian marketplaces.
 The project will integrate data from nine source CSV files, covering various business entities such as customers, orders, products, sellers, and payment information. By structuring this data into a Data Mart, we aim to enable analysis of key performance metrics related to orders, customers, and sales patterns.
+In this repo are added all the scripts of table creation, with the appropriate data types. The documentation describes in detail each step of the project.
